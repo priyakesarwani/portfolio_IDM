@@ -55,19 +55,8 @@ a:active {
     border-color: #14C9C9;
 }
 
-.back-to-top {
-    position: fixed;
-    display: none;
-    width: 44px;
-    height: 44px;
-    padding: 8px 0;
-    text-align: center;
-    line-height: 1;
-    font-size: 22px;
-    right: 15px;
-    bottom: 15px;
-    z-index: 9;
-}
+
+
 
 
 
